@@ -1,0 +1,22 @@
+- name: Dr.Wu Yan
+  github_username: makeitup
+  email: tasbolat@comp.nus.edu.sg
+  google_scholar: tasbolat
+  avatar: yan.jpg
+  description: PI, scientist at I2R, A-STAR
+  alumni: false
+- name: Tasbolat Taunyazov
+  github_username: tasbolat1
+  email: tasbolat@comp.nus.edu.sg
+  google_scholar: https://scholar.google.com/citations?user=hMOU2dUAAAAJ&hl=en
+  avatar: tas.jpg
+  description: PhD student at NUS
+  alumni: false
+- name: Gao Ruihan
+  github_username: makeitup
+  email: tasbolat@comp.nus.edu.sg
+  google_scholar: tasbolat
+  avatar: ruihan.jpg
+  description: very cool student
+  alumni: false
+
