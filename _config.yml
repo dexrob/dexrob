@@ -33,8 +33,6 @@ plugins:
 include:
   - _pages
   - _projects
-  - _static
-
 
 sass:
   sass_dir: assets/css
