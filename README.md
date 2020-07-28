@@ -219,4 +219,10 @@ The theme is available as open source under the terms of the [MIT License](http:
 
 
 ## Tips
-RH: when inserting images in markdown file, use `.png` not `.pdf`
+* When inserting images in markdown file, use `.png` not `.pdf`
+* To [resize images](https://github.com/hakimel/reveal.js/issues/1349#issuecomment-301660109),
+```
+![test image size](/img/post-bg-2015.jpg){:class="img-responsive"}
+![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
+![test image size](/img/post-bg-2015.jpg){:height="700px" width="400px"}
+```
