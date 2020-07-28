@@ -1,9 +1,18 @@
 ---
-layout: page
-title: Publications
-permalink: /publications/
+layout: post
+title: "We have two papers accepted for publiation at IROS 2020"
+date: 2020-07-01 11:08:00 +0800
+render_with_liquid: false
 ---
-<style type="text/css">
+The following papers have been accepted fo publications for publication in the Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020). Congratulations!
+*  Tasbolat Taunyazov et al, Fast Texture Classification Using Tactile Neural Coding and Spiking Neural Network <br/>
+![Sample spike train](assets/imgs/Fast_texture_IROS_2020/example2.pdf)
+![clustering of materials](assets/imgs/Fast_texture_IROS_2020/clustering_with_material.pdf)
+<!-- <!-- * Gao Ruihan et al, Supervised Autoencoder Joint Learning on Heterogeneous Tactile Sensory Data: Improving Material Classification Performance <br/>
+![RAEC coding](/assets/imgs/Supervised_AE_IROS_2020/RAEC_coding.pdf)  -->
+
+
+<!-- <style type="text/css">
 	ul li {
 		padding-bottom: 10px;
 	}
@@ -37,24 +46,27 @@ permalink: /publications/
 	}
 </style>
 
-<h1> 2020 </h1>
+<h1> The following papers have been accepted fo publications for publication in the Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020). Congratulations! </h1>
 <ul>
 	<li>
 	  Gao, Ruihan; Taunyazov, Tasbolat; Lin, Zhiping; Wu, Yan. 
 	  <b>Supervised Autoencoder Joint Learning on Heterogeneous Tactile Sensory Data: Improving Material Classification Performance.</b>
 	  2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA <br>
-	  <i>Accepted, Pdf is coming soon.</i>
-	  <a href="https://github.com/dexrob/Supervised-Autoencoder-Joint-Learning-on-Heterogeneous-Tactile-Sensory-Data.git">Code</a>&nbsp;<a href="https://github.com/dexrob/BioTac_slide_20_50.git">Data</a> 
+      <img src="../assets/imgs/Fast_texture_IROS_2020/example2.pdf", alt="Sample spike train", width="500", height="600">
 	</li>
 	<li>
 		 Taunyazov, Tasbolat; Chua, Yansong; Gao, Ruihan; Soh, Harold; Wu, Yan.
 		 <b>Fast Texture Classification Using Tactile Neural Coding and Spiking Neural Network. </b>
-		 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA.
-		 <i>Accepted, Pdf is coming soon.</i>
-		 <a href="https://github.com/dexrob/fast_texture_recognition.git">Code</a>&nbsp;<a href="https://github.com/dexrob/tactile_data_IROS2020_preprocessed.git">Data</a> 
-
+		 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA. <br>
+        <img src="./assets/imgs/Supervised_AE_IROS_2020/RAEC_coding.pdf", alt="RAEC coding", width="500", height="600">
 	</li>
 </ul>
+
+
+
+
+
+<!-- 
 <h1> 2019 </h1>
 <ul>
 	<li>
@@ -76,9 +88,9 @@ permalink: /publications/
 	 <br>
 	  <button onclick="document.location='../texture_classification_icra_2019/index.html'" class="explanation">Explain more ...</button> 
 	</li>
-</ul>
+</ul> -->
 
-<script>
+<!-- <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -93,4 +105,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-</script>
+</script> --> 
