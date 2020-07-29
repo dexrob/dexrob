@@ -1,7 +1,7 @@
 ---
 exclude: true
 layout: publications
-title: TFast Texture Classification Using Tactile Neural Coding and \\ Spiking Neural Network
+title: Fast Texture Classification Using Tactile Neural Coding and \\ Spiking Neural Network
 permalink: /fast_texture_classification_iros_2020/
 ---
 
@@ -16,10 +16,15 @@ permalink: /fast_texture_classification_iros_2020/
 	}
 </style>
 
-Touch is arguably the most important sensing modality in physical interactions. However, tactile sensing has been largely under-explored in robot applications owing to the complexity in making perceptual inferences until the recent advancements in machine learning or deep learning in particular. Touch perception is strongly influenced by both its temporal dimension similar to audition and its spatial dimension similar to vision. While spatial cues can be learned episodically, tem- poral cues compete against the system’s response/reaction time to provide accurate inferences. <br>
-In this paper, we propose a fast tactile-based texture classification framework which makes use of the spiking neural network to learn from the neural coding of the conventional tactile sensor measurements. The framework is implemented and tested on two independent tactile datasets collected in sliding motion on 20 material textures. Our results show that the framework is able to make much more accurate inferences ahead of time as compared to that by the state-of- the-art learning approaches.
+Touch is arguably the most important sensing modality in physical interactions. However, tactile sensing has been largely under-explored in robot applications owing to the complexity in making perceptual inferences until the recent advancements in machine learning or deep learning in particular. Touch perception is strongly influenced by both its temporal dimension similar to audition and its spatial dimension similar to vision. While spatial cues can be learned episodically, temporal cues compete against the system’s response/reaction time to provide accurate inferences. <br>
 <img src='../assets/imgs/SNN_IROS/example2.png'>
-<tag style="font-size:11px"> caption for example2.png </tag>
+<tag style="font-size:14px">Fig. 1. An exmple of threshold encoding on tactile data</tag>
+<br>
+
+In this paper, we propose a fast tactile-based texture classification framework which makes use of the spiking neural network to learn from the neural coding of the conventional tactile sensor measurements. The framework is implemented and tested on two independent tactile datasets collected in sliding motion on 20 material textures. Our results show that the framework is able to make much more accurate inferences ahead of time as compared to that by the state-of-the-art learning approaches.
+<img src='../assets/imgs/SNN_IROS/clustering_with_material.png'>
+<tag style="font-size:14px">Fig. 2. t-SNE on encoded spike trains</tag>
+<br>
 
 
 
