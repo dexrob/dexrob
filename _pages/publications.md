@@ -45,14 +45,41 @@ permalink: /publications/
 	  2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA <br>
 	  <i>Accepted, Pdf is coming soon.</i>
 	  <a href="https://github.com/dexrob/Supervised-Autoencoder-Joint-Learning-on-Heterogeneous-Tactile-Sensory-Data.git">Code</a>&nbsp;<a href="https://github.com/dexrob/BioTac_slide_20_50.git">Data</a> 
+	  <!-- Note: Change the citation info later, once the pdf is ready, -->
+	  <!-- <div class="content">
+	  <br>
+	  @inproceedings{taunyazov2019towards, <br>
+		  title={Towards effective tactile identification of textures using a hybrid touch approach},<br>
+		  author={Taunyazov, Tasbolat and Koh, Hui Fang and Wu, Yan and Cai, Caixia and Soh, Harold},<br>
+		  booktitle={2019 International Conference on Robotics and Automation (ICRA)},<br>
+		  pages={4269--4275},<br>
+		  year={2019},<br>
+		  organization={IEEE}<br>
+		}
+	  </div> -->
+	  <br>
+	  <button onclick="document.location='../supervised_ae_iros_2020/index.html'" class="explanation">Explain more ...</button> 
 	</li>
 	<li>
-		 Taunyazov, Tasbolat; Chua, Yansong; Gao, Ruihan; Soh, Harold; Wu, Yan.
-		 <b>Fast Texture Classification Using Tactile Neural Coding and Spiking Neural Network. </b>
-		 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA.
-		 <i>Accepted, Pdf is coming soon.</i>
-		 <a href="https://github.com/dexrob/fast_texture_recognition.git">Code</a>&nbsp;<a href="https://github.com/dexrob/tactile_data_IROS2020_preprocessed.git">Data</a> 
-
+		Taunyazov, Tasbolat; Chua, Yansong; Gao, Ruihan; Soh, Harold; Wu, Yan.
+		<b>Fast Texture Classification Using Tactile Neural Coding and Spiking Neural Network. </b>
+		2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, Las Vegas, USA.
+		<i>Accepted, Pdf is coming soon.</i>
+		<a href="https://github.com/dexrob/fast_texture_recognition.git">Code</a>&nbsp;<a href="https://github.com/dexrob/tactile_data_IROS2020_preprocessed.git">Data</a> 
+	  <!-- Note: Change the citation info later, once the pdf is ready, -->
+	  <!-- <div class="content">
+	  <br>
+	  @inproceedings{taunyazov2019towards, <br>
+		  title={Towards effective tactile identification of textures using a hybrid touch approach},<br>
+		  author={Taunyazov, Tasbolat and Koh, Hui Fang and Wu, Yan and Cai, Caixia and Soh, Harold},<br>
+		  booktitle={2019 International Conference on Robotics and Automation (ICRA)},<br>
+		  pages={4269--4275},<br>
+		  year={2019},<br>
+		  organization={IEEE}<br>
+		}
+	  </div> -->
+	  <br>
+	  <button onclick="document.location='../fast_texture_classification_iros_2020/index.html'" class="explanation">Explain more ...</button> 
 	</li>
 </ul>
 <h1> 2019 </h1>
