@@ -31,7 +31,8 @@ This paper investigates the joint learnability of data collected from heterogene
 <hr style="width:100%;text-align:left;margin-left:0;margin-top: 20px;margin-bottom: 20px;">
 
 <i>For more info, please read the following article:</i>
-<b>The pdf link is coming on the way :) </b>
+<b>Paper is accepted. The pdf link is coming on the way :) </b>
+<a href="https://github.com/dexrob/Supervised-Autoencoder-Joint-Learning-on-Heterogeneous-Tactile-Sensory-Data.git">Code</a>&nbsp;<a href="https://github.com/dexrob/BioTac_slide_20_50.git">Data</a> 
 
 <!-- Note: Change the citation info later, once the pdf is ready, -->
 <!-- <ul>

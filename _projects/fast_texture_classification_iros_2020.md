@@ -31,7 +31,8 @@ In this paper, we propose a fast tactile-based texture classification framework 
 <hr style="width:100%;text-align:left;margin-left:0;margin-top: 20px;margin-bottom: 20px;">
 
 <i>For more info, please read the following article:</i>
-<b>The pdf link is coming on the way :) </b>
+<b>The paper is accepted. The pdf link is coming on the way :) </b>
+<a href="https://github.com/dexrob/fast_texture_recognition.git">Code</a>&nbsp;<a href="https://github.com/dexrob/tactile_data_IROS2020_preprocessed.git">Data</a> 
 
 <!-- Note: Change the citation info later, once the pdf is ready, -->
 <!-- <ul>
