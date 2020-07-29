@@ -59,7 +59,8 @@ permalink: /publications/
 <ul>
 	<li>
 	 Taunyazov, Tasbolat; Koh, Hui Fang; Wu, Yan; Cai, Caixia; Soh, Harold. <br>
-	 <b>Towards effective tactile identification of textures using a hybrid touch approach.</b> <br>
+	 <b>Towards effectiv
+	 e tactile identification of textures using a hybrid touch approach.</b> <br>
 	 2019 International Conference on Robotics and Automation (ICRA), pp. 4269-4275, IEEE, Montreal, Canada, 2019, ISBN: 978-1-5386-6027-0.<br>
 	 <a href="https://www.yan-wu.com/docs/taunyanov2019towards.pdf">Pdf</a> &nbsp; <a href="">Data</a> &nbsp;<a class="collapsible">Cite</a>
 	 <div class="content">
