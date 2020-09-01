@@ -1,3 +1,9 @@
+# - positon code for members: 
+#   0 for PI
+#   1 for staff
+#   2 for PhD student
+#   3 for attached student
+
 - name: Dr.Wu Yan
   github_username: wuyangoh
   email: wuy@i2r.a-star.edu.sg
@@ -5,6 +11,16 @@
   avatar: yan.jpg
   description: PI, scientist at I2R, A*STAR
   alumni: false
+  PI: true
+  position: 0
+- name: Gao Ruihan
+  github_username: RuihanGao
+  email: Gao_Ruihan@i2r.a-star.edu.sg
+  google_scholar: https://scholar.google.com/citations?hl=en&user=rbfajPIAAAAJ
+  avatar: ruihan.jpg
+  description: Research Engineer at A*STAR
+  alumni: false
+  position: 1
 - name: Tasbolat Taunyazov
   github_username: tasbolat1
   email: tasbolat@comp.nus.edu.sg
@@ -12,11 +28,37 @@
   avatar: tas.jpg
   description: PhD student at NUS
   alumni: false
-- name: Gao Ruihan
-  github_username: RuihanGao
-  email: Gao_Ruihan@i2r.a-star.edu.sg
-  google_scholar: https://scholar.google.com/citations?hl=en&user=rbfajPIAAAAJ
-  avatar: ruihan.jpg
-  description: Research Engineer at A*STAR, fresh grad from NTU
+  position: 2
+- name: Tian Tian
+  github_username: Tian0426
+  email: TIAN0090@e.ntu.edu.sg
+  google_scholar: xxx
+  avatar: tian.jpg
+  description: NTU Final Year Project (FYP) student
   alumni: false
+  position: 3
+  
+# - name: Dr.Wu Yan
+#   github_username: wuyangoh
+#   email: wuy@i2r.a-star.edu.sg
+#   google_scholar: https://scholar.google.com.sg/citations?user=Pn1ZxxwAAAAJ&hl=en
+#   avatar: yan.jpg
+#   description: PI, scientist at I2R, A*STAR
+#   alumni: false
+# - name: Tasbolat Taunyazov
+#   github_username: tasbolat1
+#   email: tasbolat@comp.nus.edu.sg
+#   google_scholar: https://scholar.google.com/citations?user=hMOU2dUAAAAJ&hl=en
+#   avatar: tas.jpg
+#   description: PhD student at NUS
+#   alumni: false
+# - name: Gao Ruihan
+#   github_username: RuihanGao
+#   email: Gao_Ruihan@i2r.a-star.edu.sg
+#   google_scholar: https://scholar.google.com/citations?hl=en&user=rbfajPIAAAAJ
+#   avatar: ruihan.jpg
+#   description: Research Engineer at A*STAR, fresh grad from NTU
+#   alumni: false
+
+  
 
